@@ -4,8 +4,8 @@
 <img align="right" width="274" height="237" src="https://media.giphy.com/media/1ngQorBCDcUFy/giphy.gif">
 
 ```python
-print("Cookies, Champagne e uns codiguis em Python! :)") 
-}
+print("Cookies, Champagne e uns codiguis em Python!") 
+
 ```
 🥑 Vegetariana   
 💍 Casada com @codeshow    
