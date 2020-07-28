@@ -13,7 +13,7 @@ print("Cookies, Champagne e uns codiguis em Python! :)")
 👶 Mãe do Poderoso chefinho - Erikinho 💓  
 👩🏼‍💻 Comecei a aprender Python e tô me aventurando por esse mundo lindo!  
 
-![Twitter](https://img.shields.io/twitter/follow/karlamagueta?label=Follow&style=social) 
+[![Twitter](https://img.shields.io/badge/%F0%9F%A6%84-Twitter-00ccff)](https://twitter.com/karlamagueta) 
 [![Twitch](https://img.shields.io/badge/%F0%9F%A6%84-Twitch-blueviolet)](https://www.twitch.tv/karlamag) 
 [![Instagram](https://img.shields.io/badge/%F0%9F%A6%84-Instagram-ff69b4)](https://www.instagram.com/karlamagueta/)  
 
