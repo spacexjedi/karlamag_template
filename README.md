@@ -1,7 +1,7 @@
 # karlamag
 
 
-<img align="right" width="274" height="237" src="https://media.giphy.com/media/1ngQorBCDcUFy/giphy.gif">
+<img align="right" width="274" height="237" src="https://media.giphy.com/media/CoWGqp7Q7mx8c/giphy.gif">
 
 ```python
 print("Cookies, Champagne e uns codiguis em Python!") 
